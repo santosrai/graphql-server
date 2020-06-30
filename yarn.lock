@@ -1010,7 +1010,7 @@ expand-brackets@^2.1.4:
 
 express@^4.0.0:
   version "4.16.3"
-  resolved "http://registry.npmjs.org/express/-/express-4.16.3.tgz#6af8a502350db3246ecc4becf6b5a34d22f7ed53"
+  resolved "https://registry.npmjs.org/express/-/express-4.16.3.tgz#6af8a502350db3246ecc4becf6b5a34d22f7ed53"
   dependencies:
     accepts "~1.3.5"
     array-flatten "1.1.1"
@@ -1289,14 +1289,10 @@ graphql-subscriptions@^1.0.0:
   dependencies:
     iterall "^1.2.1"
 
-graphql-tag@^2.10.1:
-  version "2.10.1"
-  resolved "https://registry.yarnpkg.com/graphql-tag/-/graphql-tag-2.10.1.tgz#10aa41f1cd8fae5373eaf11f1f67260a3cad5e02"
-  integrity sha512-jApXqWBzNXQ8jYa/HLkZJaVw9jgwNqZkywa2zfFn16Iv1Zb7ELNHkJaXHR7Quvd5SIGsy6Ny7SUKATgnu05uEg==
-
-graphql-tag@^2.9.2:
-  version "2.9.2"
-  resolved "https://registry.yarnpkg.com/graphql-tag/-/graphql-tag-2.9.2.tgz#2f60a5a981375f430bf1e6e95992427dc18af686"
+graphql-tag@^2.10.3, graphql-tag@^2.9.2:
+  version "2.10.3"
+  resolved "https://registry.yarnpkg.com/graphql-tag/-/graphql-tag-2.10.3.tgz#ea1baba5eb8fc6339e4c4cf049dabe522b0edf03"
+  integrity sha512-4FOv3ZKfA4WdOKJeHdz6B3F/vxBLSgmBcGeAFPf4n1F64ltJUvOOerNj0rsJxONQGdhUMynQIvd6LzB+1J5oKA==
 
 graphql-tools@^4.0.0:
   version "4.0.5"
@@ -1388,7 +1384,7 @@ http-errors@1.6.2:
 
 http-errors@1.6.3, http-errors@~1.6.2, http-errors@~1.6.3:
   version "1.6.3"
-  resolved "http://registry.npmjs.org/http-errors/-/http-errors-1.6.3.tgz#8b55680bb4be283a0b5bf4ea2e38580be1d9320d"
+  resolved "https://registry.npmjs.org/http-errors/-/http-errors-1.6.3.tgz#8b55680bb4be283a0b5bf4ea2e38580be1d9320d"
   dependencies:
     depd "~1.1.2"
     inherits "2.0.3"
